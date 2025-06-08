@@ -268,13 +268,14 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
     <header class="main-header">
         <div class="header-content">
             <a href="../index.php" class="logo">
-                <span class="logo-icon">🚚</span>
+                <span class="logo-icon">👩🏻‍💼👨‍💼</span>
                 <span class="logo-text">T9el.ma</span>
             </a>
             <nav class="main-nav">
-                <a href="../index.php" class="nav-link">Accueil</a>
+                <a href="../index.html" class="nav-link">Accueil</a>
                 <a href="register.php" class="nav-link">Inscription</a>
                 <a href="login.php" class="nav-link">Connexion</a>
+                <a href="search-drivers.php" class="nav-link">Chercher chaufeure</a>
             </nav>
         </div>
     </header>
